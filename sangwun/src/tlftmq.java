@@ -1,4 +1,4 @@
-class tlftmq {
+public class tlftmq {
 
 	public static void main(String[] args) {
 		int a,b,c,d;
